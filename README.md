@@ -6,7 +6,7 @@ A [list and description](./docs/script_manifest.md) of the scripts used in this 
 
 ## Tech Used
 
-## Python Libraries/Dependencies
+### Python Libraries/Dependencies
 
 - os
 - requests
@@ -17,7 +17,7 @@ A [list and description](./docs/script_manifest.md) of the scripts used in this 
 - cv2
 - pytesseract
 
-## Other tools
+### Other tools
 
 - VSCode
 - [Simple mass downloader](https://chrome.google.com/webstore/detail/simple-mass-downloader/abdkkegmcbiomijcbdaodaflgehfffed?hl=en-US) chrome extension
