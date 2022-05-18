@@ -6,12 +6,6 @@ A [list and description](./docs/script_manifest.md) of the scripts used in this 
 
 ## Tech Used
 
-### Languages
-
-- Python
-- Javascript (HTML too)
-- BASH
-
 ## Python Libraries/Dependencies
 
 - os
