@@ -1,0 +1,12 @@
+ 
+
+ 
+
+A.EARTHQUAKES
+B. FLASH FLOODS
+C. TSUNAMIS
+D.FIRE
+
+ 
+
+ 

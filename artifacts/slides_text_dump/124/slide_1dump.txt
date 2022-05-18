@@ -1,0 +1,12 @@
+ 
+
+ 
+
+A.LIQUOR BOTTLE
+B. CUP
+C.SANDWICH
+D.BAG OF CHIPS
+
+ 
+
+ 
